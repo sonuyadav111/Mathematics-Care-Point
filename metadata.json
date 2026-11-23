@@ -1,0 +1,8 @@
+{
+  "name": "Remix Imaginations Home Tuitions",
+  "description": "Premier home tuition educational portal for Class 10, 11, and 12 students featuring subject-wise study material, syllabus, mock papers, DPP, PYQ, and teacher profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
